@@ -20,8 +20,15 @@ cal3= cal2
 print(id(cal3))
 
 
+
 print("Resultado:", cal.multiplicacion(3,4))
 print("Resultado:" , type(cal.multiplicacion(3,4)))
 
 print ("Resultado:", cal.division(9,4))
+
+print("Resultado:", cal.multiplicacion(2,4))
+print("Resultado:" , type(cal.multiplicacion(3,4)))
+
+print ("Resultado:", cal.division(40,30))
+
 print ("Resultado:", type(cal.division(9,4)))

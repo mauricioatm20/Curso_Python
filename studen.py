@@ -15,6 +15,6 @@ estudiante2 =  Estudiante("manuel" , 42)
 #guardar los estudiantes en una lista
 lista_estudiantes = [estudiante1,estudiante2]
 
-#recorrer la lista
+#recorrer la lista y guarda los estudiantes en estudiante.
 for estudiante in lista_estudiantes:
     print("nombre:" , estudiante.nombre,"/", "edad:" ,estudiante.edad)
